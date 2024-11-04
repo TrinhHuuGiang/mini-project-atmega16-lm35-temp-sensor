@@ -24,4 +24,4 @@ You can find the source code and additional documentation in the GitHub reposito
 [atmega16-lm35-temp-sensor](https://github.com/TrinhHuuGiang/atmega16-lm35-temp-sensor.git)
 
 ## Author
-This project was carried out by **[Giang Trinh]**. If you have any questions or need support, please contact me at [giangtrinhvnbl2k2@gmail.com].
+This project was carried out by **[Giang Trinh](https://github.com/TrinhHuuGiang)**. If you have any questions or need support, please contact me at [giangtrinhvnbl2k2@gmail.com].
