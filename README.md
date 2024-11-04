@@ -1,4 +1,5 @@
-# Temperature Measurement and Display Device
+# Temperature Measurement and Display Device  
+![Product testing](result/test.gif)
 
 ## Introduction
 This product is a simple temperature measurement and display device built on the Atmega16 microcontroller and the LM35 temperature sensor. The primary goal of the project is to help users become familiar with the Atmega16 microcontroller and basic electronic components.
