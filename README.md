@@ -2,7 +2,7 @@
 ![Product testing](result/test.gif)
 
 ## Introduction
-This product is a simple temperature measurement and display device built on the Atmega16 microcontroller and the LM35 temperature sensor. The primary goal of the project is to help users become familiar with the Atmega16 microcontroller and basic electronic components.
+This product is a simple temperature measurement and display device built on the Atmega16 microcontroller and the LM35 temperature sensor. The primary goal of the project is to help users become familiar with the Atmega16 microcontroller and basic electronic components, especially focusing on analog-to-digital conversion (ADC) to read temperature data from the LM35.
 
 ## Technical Specifications
 - **Temperature Measurement Range**: 0°C - 100°C
